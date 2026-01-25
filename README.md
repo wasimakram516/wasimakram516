@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Wasim Akram</h1>
   <h3>Senior Full-Stack Engineer · Technical Lead · Cloud & AI-Driven Systems</h3>
-  <p>Next.js · NestJS · Node.js · Laravel · AWS · DevOps · XAI Research</p>
+  <p>Next.js · NestJS · Node.js · AWS · DevOps · XAI Research</p>
 </div>
 
 <div align="center">
@@ -57,7 +57,6 @@ Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across s
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-0E8388?style=flat&logo=node.js&logoColor=CBE4DE)
 ![NestJS](https://img.shields.io/badge/NestJS-2E4F4F?style=flat&logo=nestjs&logoColor=CBE4DE)
-![Laravel](https://img.shields.io/badge/Laravel-0E8388?style=flat&logo=laravel&logoColor=CBE4DE)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2E4F4F?style=flat&logo=fastapi&logoColor=CBE4DE)
 
 ### **Databases**
