@@ -1,17 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E8388&height=200&section=header&text=Wasim%20Akram&fontSize=72&fontColor=CBE4DE&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Technical%20Lead%20%7C%20Cloud%20%26%20AI%20Systems&descAlignY=58&descAlign=50&descSize=16&descColor=CBE4DE" width="100%" />
+
 <div align="center">
 
-# Wasim Akram
-
-### Senior Full-Stack Engineer · Technical Lead · Cloud & AI Systems
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=900&color=0E8388&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Wasim+%F0%9F%91%8B;Senior+Full-Stack+Engineer+%26+Technical+Lead;Next.js+%7C+NestJS+%7C+Node.js+%7C+AWS;Cloud+Architecture+%7C+CI%2FCD+%7C+DevOps;Applied+AI+%26+Explainable+AI+Research" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0E8388&center=true&vCenter=true&width=650&lines=Next.js+%7C+NestJS+%7C+Node.js+%7C+AWS;Cloud+Architecture+%7C+CI%2FCD+%7C+DevOps;Applied+AI+%26+Explainable+AI+Research;Building+scalable+systems+that+matter." alt="Typing SVG" />
 
 <br/>
 
-[![Full Stack](https://img.shields.io/badge/Full--Stack_Engineer-0E8388?style=for-the-badge)](https://github.com/wasimakram516)
-[![Technical Lead](https://img.shields.io/badge/Technical_Lead-2E4F4F?style=for-the-badge)](https://github.com/wasimakram516)
-[![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-0E8388?style=for-the-badge&logo=amazonaws&logoColor=CBE4DE)](https://github.com/wasimakram516)
-[![Remote Ready](https://img.shields.io/badge/Remote_Ready-2E4F4F?style=for-the-badge)](https://github.com/wasimakram516)
+[![Website](https://img.shields.io/badge/wasimakram.org-0E8388?style=for-the-badge&logo=google-chrome&logoColor=CBE4DE)](https://wasimakram.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
+[![GitHub](https://img.shields.io/badge/GitHub-0E8388?style=for-the-badge&logo=github&logoColor=CBE4DE)](https://github.com/wasimakram516)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=wasimakram516&label=Profile+Views&color=0E8388&style=flat-square)
 
 </div>
 
@@ -23,13 +24,14 @@
 name:         Wasim Akram
 role:         Senior Full-Stack Engineer / Technical Lead
 location:     Pakistan  (Remote / Global Teams)
+website:      wasimakram.org
 availability: Open to senior, lead, and consulting roles
 
-focus:
-  - Scalable full-stack architectures
-  - Cloud-native systems on AWS
-  - CI/CD pipelines and DevOps automation
-  - Explainable AI (XAI) research
+expertise:
+  - Scalable full-stack architectures (Next.js + NestJS + AWS)
+  - Cloud-native systems — EC2, S3, RDS, Lambda, CloudFront
+  - CI/CD pipelines and zero-downtime DevOps workflows
+  - Explainable AI (XAI) — XGBoost, SHAP, adaptive learning
 
 background:
   - Enterprise web platforms
@@ -38,37 +40,35 @@ background:
   - MS Computer Science (Research Track)
 ```
 
-Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across system design, backend architecture, frontend delivery, and cloud infrastructure. Experienced in building scalable platforms, modernizing legacy systems, and delivering reliable solutions in regulated and data-intensive environments.
+> Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across system design, backend architecture, frontend delivery, and cloud infrastructure. Experienced in building scalable platforms, modernizing legacy systems, and delivering reliable solutions in regulated and data-intensive environments.
 
 ---
 
 ## Tech Stack
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-0E8388?style=flat-square&logo=next.js&logoColor=CBE4DE)
-![React](https://img.shields.io/badge/React-2E4F4F?style=flat-square&logo=react&logoColor=CBE4DE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0E8388?style=flat-square&logo=tailwind-css&logoColor=CBE4DE)
-![MUI](https://img.shields.io/badge/MUI-2E4F4F?style=flat-square&logo=mui&logoColor=CBE4DE)
+<div align="center">
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0E8388?style=flat-square&logo=node.js&logoColor=CBE4DE)
-![NestJS](https://img.shields.io/badge/NestJS-2E4F4F?style=flat-square&logo=nestjs&logoColor=CBE4DE)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E8388?style=flat-square&logo=fastapi&logoColor=CBE4DE)
+**Frontend**
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-0E8388?style=flat-square&logo=mysql&logoColor=CBE4DE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E4F4F?style=flat-square&logo=postgresql&logoColor=CBE4DE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0E8388?style=flat-square&logo=mongodb&logoColor=CBE4DE)
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,mui,html,css,ts&theme=dark" />
 
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0E8388?style=flat-square&logo=amazonaws&logoColor=CBE4DE)
-![Docker](https://img.shields.io/badge/Docker-2E4F4F?style=flat-square&logo=docker&logoColor=CBE4DE)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0E8388?style=flat-square&logo=github-actions&logoColor=CBE4DE)
+**Backend & APIs**
 
-#### AI & Research
-![Python](https://img.shields.io/badge/Python-2E4F4F?style=flat-square&logo=python&logoColor=CBE4DE)
-![XGBoost](https://img.shields.io/badge/XGBoost-0E8388?style=flat-square&logo=python&logoColor=CBE4DE)
-![SHAP](https://img.shields.io/badge/SHAP-2E4F4F?style=flat-square&logo=python&logoColor=CBE4DE)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,python,express&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux&theme=dark" />
+
+**AI & Research Tools**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+
+</div>
 
 ---
 
@@ -76,12 +76,33 @@ Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across s
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wasimakram516&show_icons=true&theme=algolia&bg_color=0d1117&title_color=0E8388&icon_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&hide_border=false&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakram516&layout=compact&theme=algolia&bg_color=0d1117&title_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&hide_border=false&langs_count=6" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wasimakram516&show_icons=true&bg_color=0d1117&title_color=0E8388&icon_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&count_private=true&hide_border=false" alt="GitHub Stats" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakram516&layout=compact&bg_color=0d1117&title_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&langs_count=6&hide_border=false" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasimakram516&theme=algolia&background=0d1117&ring=0E8388&fire=0E8388&currStreakLabel=CBE4DE&sideLabels=CBE4DE&border=2E4F4F" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=wasimakram516&theme=dark&background=0d1117&ring=0E8388&fire=CBE4DE&currStreakLabel=CBE4DE&sideLabels=CBE4DE&border=2E4F4F&currStreakNum=0E8388&sideNums=CBE4DE" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasimakram516&bg_color=0d1117&color=CBE4DE&line=0E8388&point=CBE4DE&area=true&area_color=0E8388&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wasimakram516&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
@@ -89,29 +110,25 @@ Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across s
 
 ## What I Bring
 
-- **Architecture & Delivery** — Led end-to-end design and delivery of large-scale web platforms across regulated industries
-- **Cloud Infrastructure** — Owned AWS infrastructure, release workflows, and performance optimization at scale
-- **CI/CD & DevOps** — Designed and maintained pipelines for reliable, zero-downtime deployments
-- **Team Leadership** — Mentored engineers, defined technical standards, and drove adoption of best practices
-- **Stakeholder Alignment** — Bridged engineering and product to translate business goals into technical strategy
+| Area | Details |
+|---|---|
+| **Architecture** | End-to-end design and delivery of large-scale, production-grade web platforms |
+| **Cloud** | AWS infrastructure ownership — compute, storage, networking, and cost optimization |
+| **CI/CD** | Automated pipelines with GitHub Actions and Docker for reliable, zero-downtime deploys |
+| **Leadership** | Technical mentorship, code review culture, and engineering standards across teams |
+| **Stakeholder Bridge** | Translating product goals into clear technical strategy and delivery roadmaps |
+| **Research** | XAI dashboards using XGBoost + SHAP integrated into full-stack analytics workflows |
 
 ---
 
-## Research
-
-Built explainable AI dashboards for adaptive learning systems using **XGBoost + SHAP**, with a focus on model interpretability and practical decision support. Developed ML pipelines integrated into full-stack analytics workflows for real-world business impact.
-
----
-
-## Connect
+## Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-2E4F4F?style=for-the-badge&logo=github&logoColor=CBE4DE)](https://github.com/wasimakram516)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E8388?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=wasimakram516&label=Profile+Views&color=0E8388&style=flat-square" alt="Profile views" />
+[![Website](https://img.shields.io/badge/wasimakram.org-0E8388?style=for-the-badge&logo=google-chrome&logoColor=CBE4DE)](https://wasimakram.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
+[![GitHub](https://img.shields.io/badge/GitHub-0E8388?style=for-the-badge&logo=github&logoColor=CBE4DE)](https://github.com/wasimakram516)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E8388&height=100&section=footer" width="100%" />
