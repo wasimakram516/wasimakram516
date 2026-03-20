@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E8388&height=200&section=header&text=Wasim%20Akram&fontSize=72&fontColor=CBE4DE&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Technical%20Lead%20%7C%20Cloud%20%26%20AI%20Systems&descAlignY=58&descAlign=50&descSize=16&descColor=CBE4DE" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0E8388&center=true&vCenter=true&width=650&lines=Next.js+%7C+NestJS+%7C+Node.js+%7C+AWS;Cloud+Architecture+%7C+CI%2FCD+%7C+DevOps;Applied+AI+%26+Explainable+AI+Research;Building+scalable+systems+that+matter." alt="Typing SVG" />
+# Wasim Akram
+### Senior Full-Stack Engineer · Technical Lead · Cloud & AI Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0E8388&center=true&vCenter=true&width=650&lines=Next.js+%7C+Node.js+%7C+Express+%7C+FastAPI;AWS+S3+%7C+CloudFront+%7C+Docker+%7C+GitHub+Actions;MongoDB+%7C+Socket.IO+%7C+Framer+Motion;XGBoost+%7C+SHAP+%7C+Explainable+AI+Research;Building+scalable+systems+that+matter." alt="Typing SVG" />
 
 <br/>
 
@@ -28,15 +29,15 @@ website:      wasimakram.org
 availability: Open to senior, lead, and consulting roles
 
 expertise:
-  - Scalable full-stack architectures (Next.js + NestJS + AWS)
-  - Cloud-native systems — EC2, S3, RDS, Lambda, CloudFront
-  - CI/CD pipelines and zero-downtime DevOps workflows
-  - Explainable AI (XAI) — XGBoost, SHAP, adaptive learning
+  - Scalable full-stack architectures (Next.js + Node.js + Express + AWS)
+  - Real-time systems with Socket.IO and event-driven design
+  - Cloud delivery via AWS S3, CloudFront, Docker, GitHub Actions
+  - Explainable AI (XAI) — XGBoost, SHAP, scikit-learn, Optuna
 
 background:
-  - Enterprise web platforms
-  - FinTech and data-driven systems
-  - Production-grade application delivery
+  - Enterprise web platforms and event engagement systems
+  - AI chatbots, quiz platforms, and interactive kiosk apps
+  - Desktop enterprise software in .NET
   - MS Computer Science (Research Track)
 ```
 
@@ -50,23 +51,23 @@ background:
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,mui,html,css,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mui,html,css&theme=dark&perline=8" />
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,python,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,cs,dotnet&theme=dark&perline=8" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark&perline=8" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux&theme=dark&perline=8" />
 
-**AI & Research Tools**
+**AI & Research**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark&perline=8" />
 
 </div>
 
@@ -76,50 +77,12 @@ background:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wasimakram516&show_icons=true&bg_color=0d1117&title_color=0E8388&icon_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&count_private=true&hide_border=false" alt="GitHub Stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakram516&layout=compact&bg_color=0d1117&title_color=0E8388&text_color=CBE4DE&border_color=2E4F4F&langs_count=6&hide_border=false" alt="Top Languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=wasimakram516&theme=dark&background=0d1117&ring=0E8388&fire=CBE4DE&currStreakLabel=CBE4DE&sideLabels=CBE4DE&border=2E4F4F&currStreakNum=0E8388&sideNums=CBE4DE" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasimakram516&bg_color=0d1117&color=CBE4DE&line=0E8388&point=CBE4DE&area=true&area_color=0E8388&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wasimakram516&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
----
-
-## What I Bring
-
-| Area | Details |
-|---|---|
-| **Architecture** | End-to-end design and delivery of large-scale, production-grade web platforms |
-| **Cloud** | AWS infrastructure ownership — compute, storage, networking, and cost optimization |
-| **CI/CD** | Automated pipelines with GitHub Actions and Docker for reliable, zero-downtime deploys |
-| **Leadership** | Technical mentorship, code review culture, and engineering standards across teams |
-| **Stakeholder Bridge** | Translating product goals into clear technical strategy and delivery roadmaps |
-| **Research** | XAI dashboards using XGBoost + SHAP integrated into full-stack analytics workflows |
-
----
 
 ## Let's Connect
 
@@ -131,4 +94,3 @@ background:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E8388&height=100&section=footer" width="100%" />
