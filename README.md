@@ -9,7 +9,6 @@
 
 [![Website](https://img.shields.io/badge/wasimakram.org-0E8388?style=for-the-badge&logo=google-chrome&logoColor=CBE4DE)](https://wasimakram.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
-[![GitHub](https://img.shields.io/badge/GitHub-0E8388?style=for-the-badge&logo=github&logoColor=CBE4DE)](https://github.com/wasimakram516)
 
 <br/>
 
@@ -59,7 +58,7 @@ background:
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,mysql&theme=dark&perline=8" />
 
 **Cloud & DevOps**
 
@@ -81,16 +80,4 @@ background:
 
 </div>
 
----
-
-
-## Let's Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/wasimakram.org-0E8388?style=for-the-badge&logo=google-chrome&logoColor=CBE4DE)](https://wasimakram.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
-[![GitHub](https://img.shields.io/badge/GitHub-0E8388?style=for-the-badge&logo=github&logoColor=CBE4DE)](https://github.com/wasimakram516)
-
-</div>
 
