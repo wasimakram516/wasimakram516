@@ -7,7 +7,6 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/wasimakram.org-0E8388?style=for-the-badge&logo=google-chrome&logoColor=CBE4DE)](https://wasimakram.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
 
 <br/>
