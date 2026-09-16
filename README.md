@@ -23,7 +23,6 @@
 name:         Wasim Akram
 role:         Senior Full-Stack Engineer / Technical Lead
 location:     Pakistan  (Remote / Global Teams)
-website:      wasimakram.org
 availability: Open to senior, lead, and consulting roles
 
 expertise:
