@@ -1,81 +1,31 @@
-<div align="center">
-
 # Wasim Akram
-### Senior Full-Stack Engineer · Technical Lead · Cloud & AI Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0E8388&center=true&vCenter=true&width=650&lines=Next.js+%7C+Node.js+%7C+Express+%7C+FastAPI;AWS+S3+%7C+CloudFront+%7C+Docker+%7C+GitHub+Actions;MongoDB+%7C+Socket.IO+%7C+Framer+Motion;XGBoost+%7C+SHAP+%7C+Explainable+AI+Research;Building+scalable+systems+that+matter." alt="Typing SVG" />
+Senior Full-Stack Engineer · Cloud and AI Systems
 
-<br/>
+Pakistan. Working with teams remotely.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E4F4F?style=for-the-badge&logo=linkedin&logoColor=CBE4DE)](https://linkedin.com/in/wasimakram516)
+## About
 
-<br/>
+I build full-stack platforms for event engagement, enterprise operations and data-heavy systems. My work covers Next.js and Node.js frontends and APIs, real-time systems with Socket.IO, AWS delivery, and explainable machine learning for research.
 
-![Profile Views](https://komarev.com/ghpvc/?username=wasimakram516&label=Profile+Views&color=0E8388&style=flat-square)
+## Stack
 
-</div>
+- **Frontend:** Next.js, React, TypeScript, MUI
+- **Backend:** Node.js, Express, NestJS, FastAPI, Laravel
+- **Data:** MongoDB, PostgreSQL, MySQL
+- **Cloud and DevOps:** AWS (S3, CloudFront), Docker, GitHub Actions, Vercel, Nginx
+- **AI and research:** Python, XGBoost, SHAP, scikit-learn, Optuna
 
----
+## Featured work
 
-## About Me
+**EventPass Suite.** An event engagement platform with live quizzes, polls, check-in and registration. Built with Next.js, Express and Socket.IO, across several modules that share one authentication and permissions layer.
 
-```yaml
-name:         Wasim Akram
-role:         Senior Full-Stack Engineer / Technical Lead
-location:     Pakistan  (Remote / Global Teams)
-availability: Open to senior, lead, and consulting roles
+**Explainable ML research.** XGBoost and SHAP pipelines for learning analytics, tuned with Optuna and served through a FastAPI layer.
 
-expertise:
-  - Scalable full-stack architectures (Next.js + Node.js + Express + AWS)
-  - Real-time systems with Socket.IO and event-driven design
-  - Cloud delivery via AWS S3, CloudFront, Docker, GitHub Actions
-  - Explainable AI (XAI) — XGBoost, SHAP, scikit-learn, Optuna
+## Background
 
-background:
-  - Enterprise web platforms and event engagement systems
-  - AI chatbots, quiz platforms, and interactive kiosk apps
-  - Desktop enterprise software in .NET
-  - MS Computer Science (Research Track)
-```
+MS Computer Science (Research Track), Superior University. Enterprise .NET desktop software before moving into full-stack work in 2023.
 
-> Senior Full-Stack Engineer and Technical Lead with end-to-end ownership across system design, backend architecture, frontend delivery, and cloud infrastructure. Experienced in building scalable platforms, modernizing legacy systems, and delivering reliable solutions in regulated and data-intensive environments.
+## Contact
 
----
-
-## Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mui,html,css&theme=dark&perline=8" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,cs,dotnet&theme=dark&perline=8" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,mysql&theme=dark&perline=8" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux&theme=dark&perline=8" />
-
-**AI & Research**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark&perline=8" />
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=wasimakram516&theme=dark&background=0d1117&ring=0E8388&fire=CBE4DE&currStreakLabel=CBE4DE&sideLabels=CBE4DE&border=2E4F4F&currStreakNum=0E8388&sideNums=CBE4DE" alt="GitHub Streak" />
-
-</div>
-
-
+[LinkedIn](https://linkedin.com/in/wasimakram516)
