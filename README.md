@@ -37,6 +37,14 @@ based:     Pakistan, working with teams remotely
 
 **Explainable ML research.** XGBoost and SHAP pipelines for learning analytics, tuned with Optuna and served through a FastAPI layer.
 
+## Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=wasimakram516&theme=dark&background=0d1117&ring=0E8388&fire=CBE4DE&currStreakLabel=CBE4DE&sideLabels=CBE4DE&border=2E4F4F&currStreakNum=0E8388&sideNums=CBE4DE" alt="GitHub contributions and streak" />
+
+</div>
+
 ## Background
 
 MS Computer Science (Research Track), Superior University. Enterprise .NET desktop software before moving into full-stack work in 2023.
